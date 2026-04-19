@@ -14,3 +14,4 @@
 
 1b5.(RemoveNthElement): https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(5).png?raw=true
 
+1c. Linked List Programs
