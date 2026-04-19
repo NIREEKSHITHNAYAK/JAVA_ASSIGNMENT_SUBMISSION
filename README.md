@@ -18,4 +18,7 @@
 
 1c1.(IterateFromPosition): https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(1).png?raw=true
 
+1c2.(ReverseIteration) :   https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(2).png?raw=true
+
+
 
