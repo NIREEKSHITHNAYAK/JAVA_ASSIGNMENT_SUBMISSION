@@ -22,3 +22,5 @@
 
 1c3.(InsertAtEnd):   https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(3).png?raw=true
 
+1c4.(DisplayWithPosition)  :   https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(4).png?raw=true
+
