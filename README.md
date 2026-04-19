@@ -71,27 +71,27 @@
 5d(CMYTabbedDemo):
 
 
-6a():
+6a(FactorialServlet):
 
-6b():
+6b(CookieServlet):
 
-6c():
+6c(PrimeServlet):
 
-7a():
+7a(SessionServlet):
 
-7b():
+7b(addCookie.jsp):
 
-8a():
+8a(CookieServlet):
 
-8b():
+8b(CookieServlet):
 
-9a():
+9a(SessionServlet):
 
-9b():
+9b(check.jsp):
 
-10a():
+10a( UserDataServlet):
 
-10b():
+10b(ResultServlet):
 
 
 
