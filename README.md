@@ -154,7 +154,8 @@ output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/mai
 
 output3: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9B3.png?raw=true
 
-9c():
+9c(check.jsp):
+
 output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9C1.png?raw=true
 
 output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9C2.png?raw=true
@@ -162,12 +163,14 @@ output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/mai
 output3: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9C3.png?raw=true
 
 10a( UserDataServlet):
+
 output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10A1.png?raw=true
 
 output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10A2.png?raw=true
 
 
 10b(ResultServlet):
+
 output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10B1.png?raw=true
 
 output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10B2.png?raw=true
