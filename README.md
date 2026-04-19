@@ -1,4 +1,4 @@
-<img width="765" height="613" alt="image" src="https://github.com/user-attachments/assets/1b1a654e-ef79-4d02-9d35-1ce8bfe598f4" /># JAVA_ASSIGNMENT_SUBMISSION
+ # JAVA_ASSIGNMENT_SUBMISSION
 
 1a.(ListOperations)     :  https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1a.png?raw=true
 
@@ -91,18 +91,20 @@ output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/mai
 output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/5B2.png?raw=true
 
 
-5c(CountryCapitalDemo):
-
+5c(CountryCapitalDemo): 
+https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/5C1.png?raw=true
 
 
 5d(CMYTabbedDemo):
-
+https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/5D1.png?raw=true
 
 6a(FactorialServlet):
-
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6A1.png?raw=true 
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6A2.png?raw=true
 
 6b(CookieServlet):
-
+output1:
+output2:
 
 6c(PrimeServlet):
 
