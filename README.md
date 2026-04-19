@@ -24,3 +24,4 @@
 
 1c4.(DisplayWithPosition)  :   https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(4).png?raw=true
 
+1c5.(SwapElements)  :  https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(5).png?raw=true
