@@ -26,49 +26,50 @@
 
 1c5.(SwapElements)  :  https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(5).png?raw=true
 
-2a():
+2a(StringOperationsDemo):
 
-2b():
+2b(PerformanceTest):
 
-3a():
+3a(StringOperations):
 
-3b.
+3b.String Exercise progams
 
-3b1():
+3b1(CheckNullOrEmpty):
 
-3b2():
+3b2(CountSubstring):
 
-3b3():
+3b3(ReverseStringDemo):
 
-3b4():
+3b4(PalindromeCheck):
 
-3b5():
+3b5(RemoveWhitespace):
 
-3c.
+3c.String Exercise progams
 
-3c1(): 
+3c1(CapitalizeWords): 
 
-3c2(): 
+3c2(TruncateString): 
 
-3c3(): 
+3c3(CheckNumeric): 
 
-3c4(): 
+3c4(RandomStringGenerator): 
 
-3c5():
+3c5(WordCount):
 
-4a():
+4a(HelloSwing):
 
-4b():
+4b(CountryButtonDemo):
 
-4c():
+4c(ImageButtonDemo):
 
-5a():
+5a(CountryListDemo):
 
-5b():
+5b(TabbedColorDemo):
 
-5c():
+5c(CountryCapitalDemo):
 
-5d():
+5d(CMYTabbedDemo):
+
 
 6a():
 
