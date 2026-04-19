@@ -20,5 +20,5 @@
 
 1c2.(ReverseIteration) :   https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(2).png?raw=true
 
-
+1c3.(InsertAtEnd):   https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1c(3).png?raw=true
 
