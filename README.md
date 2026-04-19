@@ -1,1 +1,3 @@
 # JAVA_ASSIGNMENT_SUBMISSION
+
+1a.(ListOperations):
