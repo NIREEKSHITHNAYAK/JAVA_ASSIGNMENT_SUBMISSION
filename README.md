@@ -7,4 +7,5 @@
 1b2.(RemoveColors) : https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(2).png?raw=true
 1b3.(SortColors): https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(3).png?raw=true
 1b4.(SubListExample): https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(4).png?raw=true
+1b5.(RemoveNthElement): https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(5).png?raw=true
 
