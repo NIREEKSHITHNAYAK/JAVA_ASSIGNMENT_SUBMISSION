@@ -103,34 +103,62 @@ output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/mai
 output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6A2.png?raw=true
 
 6b(CookieServlet):
-output1:
-output2:
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6B1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6B1.png?raw=true
 
 6c(PrimeServlet):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6C1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/6C2.png?raw=true
 
 
 7a(SessionServlet):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/7A1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/7A2.png?raw=true
+output3: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/7A3.png?raw=true
 
 
 7b(addCookie.jsp):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/7B1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/7B2.png?raw=true
 
 
 8a(CookieServlet):
-
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/8A1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/8A2.png?raw=true
 
 8b(CookieServlet):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/8B1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/8B2.png?raw=true
 
 
 9a(SessionServlet):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9A1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9A2.png?raw=true
 
 
-9b(check.jsp):
+9b(check.jsp): 
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9B1.png?raw=true
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9B2.png?raw=true
+output3: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9B3.png?raw=true
 
+9c():
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9C1.png?raw=true
+
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9C2.png?raw=true
+
+output3: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/9C3.png?raw=true
 
 10a( UserDataServlet):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10A1.png?raw=true
+
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10A2.png?raw=true
 
 
 10b(ResultServlet):
+output1: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10B1.png?raw=true
+
+output2: https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/10B2.png?raw=true
+
 
 
 
