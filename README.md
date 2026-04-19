@@ -5,5 +5,5 @@
 1b.Array List Programs
 1b1.(ColorSearch) : https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(1).png?raw=true
 1b2.(RemoveColors) : https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(2).png?raw=true
-
+1b3.(SortColors): https://github.com/NIREEKSHITHNAYAK/JAVA_ASSIGNMENT_SUBMISSION/blob/main/1b(3).png?raw=true
 
